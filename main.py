@@ -1,6 +1,6 @@
 import sys
-from PyQt6.QtWidgets import QApplication
 from gui import ModernCalendar
+from PyQt6.QtWidgets import QApplication
 
 def main():
     app = QApplication(sys.argv)
